@@ -1,2 +1,0 @@
-# node-RED
-node red
